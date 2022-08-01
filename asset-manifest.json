@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WysaChatBot/static/css/main.cbc05a29.css",
-    "main.js": "/WysaChatBot/static/js/main.d8224e6c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/WysaChatBot/static/js/787.28cb0dcd.chunk.js",
-    "static/media/bot_image.jpg": "/WysaChatBot/static/media/bot_image.ee85775d10524ab91688.jpg",
-    "index.html": "/WysaChatBot/index.html",
-    "main.cbc05a29.css.map": "/WysaChatBot/static/css/main.cbc05a29.css.map",
-    "main.d8224e6c.js.map": "/WysaChatBot/static/js/main.d8224e6c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/WysaChatBot/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.cbc05a29.css",
+    "main.js": "/static/js/main.e20749bc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bot_image.jpg": "/static/media/bot_image.ee85775d10524ab91688.jpg",
+    "index.html": "/index.html",
+    "main.cbc05a29.css.map": "/static/css/main.cbc05a29.css.map",
+    "main.e20749bc.js.map": "/static/js/main.e20749bc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc05a29.css",
-    "static/js/main.d8224e6c.js"
+    "static/js/main.e20749bc.js"
   ]
 }
